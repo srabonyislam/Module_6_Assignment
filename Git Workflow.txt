@@ -1,0 +1,114 @@
+
+Version Control with Git & AI Workflows
+
+1. What is Git?
+
+Git is a distributed version control system used to track changes in source code and other files. It allows developers to manage different versions of a project and collaborate with other team members.
+
+2. What is GitHub?
+
+GitHub is a cloud-based platform that hosts Git repositories. It allows developers to store, share, manage, and collaborate on projects.
+
+3. Basic Git Workflow
+
+The basic Git workflow consists of the following steps:
+
+Working Directory
+       ↓
+Staging Area
+       ↓
+Local Repository
+       ↓
+Remote Repository (GitHub)
+The commonly used Git commands are:
+
+git status
+git add .
+git commit -m "message"
+git push
+
+4. Git Commands
+
+git init
+Creates a new Git repository.
+
+git status
+Shows the current status of files in the repository.
+
+git add .
+Adds changes to the staging area.
+
+git commit -m "message"
+Saves the staged changes to the local repository.
+
+git push
+Uploads local commits to GitHub.
+
+git pull
+Downloads the latest changes from the remote reposit
+
+git clone
+Creates a local copy of a remote GitHub repository.
+
+5. What is a Commit?
+
+A commit is a snapshot of changes made to files in a Git repository. A commit message describes what was changed.
+
+Example:
+
+git add .
+git commit -m "Added Module 6 assignment"
+
+6. Git Branch
+
+A branch is a separate line of development in Git. Developers can create branches to work on features or changes without affecting the main branch.
+
+Example:
+
+git branch feature
+git checkout feature
+
+7. AI Workflows
+
+Artificial Intelligence can assist software developers and QA engineers during development and testing.
+
+AI can be used for:
+
+- Generating code
+- Explaining code
+- Finding possible bugs
+- Generating test cases
+- Creating documentation
+- Reviewing code
+- Suggesting improvements
+- Generating Git commit messages
+
+8. Example of AI-Assisted Workflow
+
+Step 1: Write or modify code.
+
+Step 2: Use an AI tool to review the code and identify possible issues.
+
+Step 3: Fix the identified issues.
+
+Step 4: Use Git to track the changes.
+
+Step 5: Commit the changes with a meaningful commit message.
+
+Step 6: Push the changes to GitHub.
+
+Example:
+
+git add .
+git commit -m "Added AI-assisted code improvements"
+git push
+
+9. Benefits of Git and AI
+
+Git helps developers track changes, collaborate with team members, maintain different versions, and safely manage source code.
+
+AI can improve productivity by helping developers understand code, generate test cases, identify possible issues, and create documentation.
+
+10. Conclusion
+
+Git and GitHub provide an effective way to manage and collaborate on software projects. AI tools can support developers and QA engineers by automating repetitive tasks and assisting with coding, testing, debugging, and documentation.
